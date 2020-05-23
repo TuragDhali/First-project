@@ -1,0 +1,169 @@
+*{
+    
+    margin:0px;
+    padding: 0px;
+    
+}
+body{
+    background-color:;
+  
+    
+}
+
+.container{
+max-width: 1000px;
+    background-color: #b3ffeb;
+    margin: 0px auto;
+    padding: 10%;;
+    
+}
+header{
+    
+    
+    
+}
+#pro{
+    width: 100px;
+    height: 120px;
+    border: 4px solid white;
+    float: left;
+     border-radius: 50%;
+    
+}
+.header-bio:hover{
+    float: left;
+    
+    color:orangered;
+}
+.web{
+   float: left;
+    padding: 5px;
+    color:orangered;  
+    
+}
+h1,h2,h3,h4,h5,h6{
+    
+    
+}
+
+.header-contact{
+    
+    float: right;
+    padding: 40px;
+    text-decoration: underline;
+}
+.header-contact a{
+   text-decoration: none; 
+    color:sandybrown;
+    font-weight: bold;
+    
+}
+.header-contact a:hover{
+    text-decoration: ;
+    color: black;
+    
+}
+.clear{
+    clear: both;
+    
+}
+
+/*
+
+personal section start */
+
+#personal-section{
+    color: black;
+}
+
+.content{
+  margin-bottom:20px;
+   background-color: #Ef9;  
+}
+.left-div{
+    padding: 10px;
+    width: 30&;
+    float: left;
+}
+.right-div{
+    padding: 30px;
+   width: 70%;
+    float: right;
+  
+    
+    
+}
+hr{
+ border: 1px solid black;    
+    
+}
+.common-hr{
+    
+    border: solid black 2px;
+    border-bottom: none;
+    margin: 20px auto;
+}
+/*
+education section start
+
+*/
+
+.edu-left{
+   float: left;
+    width: 50%;
+}
+.edu-right{
+   float: left;
+    width: 50%;
+    
+}
+
+.common{
+    height: 50px;
+    background-color:black;
+    text-align:center;
+    padding: 50px;
+     font-style: italic;
+}
+.common a{
+   
+    color: white; 
+    margin: 20px;
+    text-decoration: none;
+    
+}
+.common a:hover{
+   color: greenyellow;
+     text-decoration:underline;
+}
+
+.common p{
+    
+    color: white;
+   
+    text-decoration:none;
+    margin: 20px;
+  
+} 
+    
+.common p:hover{
+   color: greenyellow;
+    text-decoration:underline;
+    
+}
+
+
+
+/*
+education section finish
+
+*/
+
+
+
+
+
+
+
+
+
